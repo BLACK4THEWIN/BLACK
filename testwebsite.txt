@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<body>
+  <a href="./index.html" target="_blank">test</a>
+  
+  <div id="intro">
+    <h1>wat informatie over mij</h1>
+    <p><strong>hoi</strong></p>
+    <p>mijn naam is black4thewin</p>
+  </div>
+  <div id="tabel"><!--schema-->
+<table border="3">
+  <h1>Algemeen schema</h1>
+  <thead>
+    <tr>
+      <th></th>
+      <th>tijden</th>
+      <th>wel/geen video</th>
+      <th>wel/geen stream</th>
+    </tr>
+    <tr>
+      <th>maandag</th>
+      <td>21:00</td>
+      <td>wel</td>
+      <td>geen</td>
+    </tr>
+        <tr>
+      <th>dinsdag</th>
+      <td>nvt</td>
+      <td>geen</td>
+      <td>geen</td>
+    </tr>
+        <tr>
+      <th>woensdag</th>
+      <td>nvt</td>
+      <td>geen</td>
+      <td>geen</td>
+    </tr>
+        <tr>
+      <th>donderdag</th>
+      <td>nvt</td>
+      <td>geen</td>
+      <td>geen</td>
+    </tr>
+        <tr>
+      <th>vrijdag</th>
+      <td>21:00</td>
+      <td>wel</td>
+      <td>geen</td>
+    </tr>
+        <tr>
+      <th>zaterdag</th>
+      <td>nvt</td>
+      <td>geen</td>
+      <td>wel</td>
+    </tr>
+        <tr>
+      <th>zondag</th>
+      <td>nvt</td>
+      <td>geen</td>
+      <td>wel</td>
+    </tr>
+  </thead>
+ </table>
+  </div>
+  <div id="plaatjes">
+    <a href="https://www.twitch.tv/black4thewin" target="_blank"><img src="https://lh3.googleusercontent.com/0uuzsuL7bjxIdWZz7F5LbwPAwsrERPg0cjNdSL_QLocKsZOvmjvsJ6FoLlJOvqakzMAE=s152" alt="twitch logo"></a>
+  </div>
+</body>
